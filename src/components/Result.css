@@ -1,0 +1,17 @@
+.result-container {
+    background-color: #0f3460;
+    padding: 2rem;
+    border-radius: 12px;
+    margin: 2rem auto;
+    max-width: 500px;
+  }
+  
+  .result-container h2 {
+    color: #00ffdd;
+  }
+  
+  .result-container p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  
